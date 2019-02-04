@@ -1,0 +1,11 @@
+C:\Users\Thomas\Documents\Coding\TroubleSort\obj\Debug\netcoreapp2.1\TroubleSort.csprojAssemblyReference.cache
+C:\Users\Thomas\Documents\Coding\TroubleSort\obj\Debug\netcoreapp2.1\TroubleSort.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\Coding\TroubleSort\obj\Debug\netcoreapp2.1\TroubleSort.AssemblyInfoInputs.cache
+C:\Users\Thomas\Documents\Coding\TroubleSort\obj\Debug\netcoreapp2.1\TroubleSort.AssemblyInfo.cs
+C:\Users\Thomas\Documents\Coding\TroubleSort\bin\Debug\netcoreapp2.1\TroubleSort.deps.json
+C:\Users\Thomas\Documents\Coding\TroubleSort\bin\Debug\netcoreapp2.1\TroubleSort.runtimeconfig.json
+C:\Users\Thomas\Documents\Coding\TroubleSort\bin\Debug\netcoreapp2.1\TroubleSort.runtimeconfig.dev.json
+C:\Users\Thomas\Documents\Coding\TroubleSort\bin\Debug\netcoreapp2.1\TroubleSort.dll
+C:\Users\Thomas\Documents\Coding\TroubleSort\bin\Debug\netcoreapp2.1\TroubleSort.pdb
+C:\Users\Thomas\Documents\Coding\TroubleSort\obj\Debug\netcoreapp2.1\TroubleSort.dll
+C:\Users\Thomas\Documents\Coding\TroubleSort\obj\Debug\netcoreapp2.1\TroubleSort.pdb

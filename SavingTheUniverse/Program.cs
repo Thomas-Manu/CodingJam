@@ -12,7 +12,6 @@ namespace SavingTheUniverse
                 string[] line = Console.ReadLine().Split(new string[] {" "}, StringSplitOptions.None);
                 int minNumberOfHacks = CountNumberOfHacks(int.Parse(line[0]), line[1]);
                 Console.WriteLine("Case #" + (i + 1) + ": " + (minNumberOfHacks == -1 ? "IMPOSSIBLE" : minNumberOfHacks.ToString()));
-                Console.WriteLine();
             }
         }
 
