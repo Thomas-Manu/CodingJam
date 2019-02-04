@@ -1,0 +1,11 @@
+C:\Users\Thomas\Documents\Coding\SavingTheUniverse\obj\Debug\netcoreapp2.1\SavingTheUniverse.csprojAssemblyReference.cache
+C:\Users\Thomas\Documents\Coding\SavingTheUniverse\obj\Debug\netcoreapp2.1\SavingTheUniverse.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\Coding\SavingTheUniverse\obj\Debug\netcoreapp2.1\SavingTheUniverse.AssemblyInfoInputs.cache
+C:\Users\Thomas\Documents\Coding\SavingTheUniverse\obj\Debug\netcoreapp2.1\SavingTheUniverse.AssemblyInfo.cs
+C:\Users\Thomas\Documents\Coding\SavingTheUniverse\bin\Debug\netcoreapp2.1\SavingTheUniverse.deps.json
+C:\Users\Thomas\Documents\Coding\SavingTheUniverse\bin\Debug\netcoreapp2.1\SavingTheUniverse.runtimeconfig.json
+C:\Users\Thomas\Documents\Coding\SavingTheUniverse\bin\Debug\netcoreapp2.1\SavingTheUniverse.runtimeconfig.dev.json
+C:\Users\Thomas\Documents\Coding\SavingTheUniverse\bin\Debug\netcoreapp2.1\SavingTheUniverse.dll
+C:\Users\Thomas\Documents\Coding\SavingTheUniverse\bin\Debug\netcoreapp2.1\SavingTheUniverse.pdb
+C:\Users\Thomas\Documents\Coding\SavingTheUniverse\obj\Debug\netcoreapp2.1\SavingTheUniverse.dll
+C:\Users\Thomas\Documents\Coding\SavingTheUniverse\obj\Debug\netcoreapp2.1\SavingTheUniverse.pdb

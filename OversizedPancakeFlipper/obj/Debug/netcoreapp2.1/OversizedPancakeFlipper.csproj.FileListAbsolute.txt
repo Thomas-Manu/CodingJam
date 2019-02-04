@@ -1,0 +1,11 @@
+C:\Users\Thomas\Documents\Coding\OversizedPancakeFlipper\bin\Debug\netcoreapp2.1\OversizedPancakeFlipper.deps.json
+C:\Users\Thomas\Documents\Coding\OversizedPancakeFlipper\bin\Debug\netcoreapp2.1\OversizedPancakeFlipper.runtimeconfig.json
+C:\Users\Thomas\Documents\Coding\OversizedPancakeFlipper\bin\Debug\netcoreapp2.1\OversizedPancakeFlipper.runtimeconfig.dev.json
+C:\Users\Thomas\Documents\Coding\OversizedPancakeFlipper\bin\Debug\netcoreapp2.1\OversizedPancakeFlipper.dll
+C:\Users\Thomas\Documents\Coding\OversizedPancakeFlipper\bin\Debug\netcoreapp2.1\OversizedPancakeFlipper.pdb
+C:\Users\Thomas\Documents\Coding\OversizedPancakeFlipper\obj\Debug\netcoreapp2.1\OversizedPancakeFlipper.csprojAssemblyReference.cache
+C:\Users\Thomas\Documents\Coding\OversizedPancakeFlipper\obj\Debug\netcoreapp2.1\OversizedPancakeFlipper.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\Coding\OversizedPancakeFlipper\obj\Debug\netcoreapp2.1\OversizedPancakeFlipper.AssemblyInfoInputs.cache
+C:\Users\Thomas\Documents\Coding\OversizedPancakeFlipper\obj\Debug\netcoreapp2.1\OversizedPancakeFlipper.AssemblyInfo.cs
+C:\Users\Thomas\Documents\Coding\OversizedPancakeFlipper\obj\Debug\netcoreapp2.1\OversizedPancakeFlipper.dll
+C:\Users\Thomas\Documents\Coding\OversizedPancakeFlipper\obj\Debug\netcoreapp2.1\OversizedPancakeFlipper.pdb
