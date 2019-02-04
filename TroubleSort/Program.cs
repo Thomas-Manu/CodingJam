@@ -42,7 +42,7 @@ namespace TroubleSort
             sortedList.Clear();
             evenList.Sort();
             oddList.Sort();
-            
+
             // Checks to see if the list is sorted
             for (int i = 0; i < oddList.Count; i++)
             {
@@ -58,28 +58,6 @@ namespace TroubleSort
                 }
             }
             return finalAnswer;
-        }
-
-        static List<int> SortList(List<int> list)
-        {
-            List<int> sortedList = list;
-            bool done = false;
-
-            while (!done)
-            {
-                done = true;
-                for (int i = 0; i < sortedList.Count - 1; i++)
-                {
-                    if (sortedList[i] > sortedList[i+1])
-                    {
-                        done = false;
-                        int temp = sortedList[i];
-                        sortedList[i] = sortedList[i+1];
-                        sortedList[i+1] = temp;
-                    }
-                }
-            }
-            return sortedList;
         }
     }
 }
