@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OversizedPancakeFlipper
+namespace WaffleChoppers
 {
     class Program
     {

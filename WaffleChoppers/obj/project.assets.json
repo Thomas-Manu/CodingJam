@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thomas\\Documents\\Coding\\OversizedPancakeFlipper\\OversizedPancakeFlipper.csproj",
-      "projectName": "OversizedPancakeFlipper",
-      "projectPath": "C:\\Users\\Thomas\\Documents\\Coding\\OversizedPancakeFlipper\\OversizedPancakeFlipper.csproj",
+      "projectUniqueName": "C:\\Users\\Thomas\\Documents\\Coding\\WaffleChoppers\\WaffleChoppers.csproj",
+      "projectName": "WaffleChoppers",
+      "projectPath": "C:\\Users\\Thomas\\Documents\\Coding\\WaffleChoppers\\WaffleChoppers.csproj",
       "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thomas\\Documents\\Coding\\OversizedPancakeFlipper\\obj\\",
+      "outputPath": "C:\\Users\\Thomas\\Documents\\Coding\\WaffleChoppers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
