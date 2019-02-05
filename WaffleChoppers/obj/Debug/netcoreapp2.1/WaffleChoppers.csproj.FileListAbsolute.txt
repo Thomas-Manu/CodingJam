@@ -1,0 +1,11 @@
+C:\Users\Thomas\Documents\Coding\WaffleChoppers\obj\Debug\netcoreapp2.1\WaffleChoppers.csprojAssemblyReference.cache
+C:\Users\Thomas\Documents\Coding\WaffleChoppers\obj\Debug\netcoreapp2.1\WaffleChoppers.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\Coding\WaffleChoppers\obj\Debug\netcoreapp2.1\WaffleChoppers.AssemblyInfoInputs.cache
+C:\Users\Thomas\Documents\Coding\WaffleChoppers\obj\Debug\netcoreapp2.1\WaffleChoppers.AssemblyInfo.cs
+C:\Users\Thomas\Documents\Coding\WaffleChoppers\bin\Debug\netcoreapp2.1\WaffleChoppers.deps.json
+C:\Users\Thomas\Documents\Coding\WaffleChoppers\bin\Debug\netcoreapp2.1\WaffleChoppers.runtimeconfig.json
+C:\Users\Thomas\Documents\Coding\WaffleChoppers\bin\Debug\netcoreapp2.1\WaffleChoppers.runtimeconfig.dev.json
+C:\Users\Thomas\Documents\Coding\WaffleChoppers\bin\Debug\netcoreapp2.1\WaffleChoppers.dll
+C:\Users\Thomas\Documents\Coding\WaffleChoppers\bin\Debug\netcoreapp2.1\WaffleChoppers.pdb
+C:\Users\Thomas\Documents\Coding\WaffleChoppers\obj\Debug\netcoreapp2.1\WaffleChoppers.dll
+C:\Users\Thomas\Documents\Coding\WaffleChoppers\obj\Debug\netcoreapp2.1\WaffleChoppers.pdb
